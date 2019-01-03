@@ -1,6 +1,6 @@
 {
   "name": "lerna-test-mobile",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "n0ruSh <zjh190579@alibaba-inc.com>",
   "homepage": "",
@@ -21,6 +21,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "lerna-test-core": "^1.0.0"
+    "lerna-test-core": "^0.0.1"
   }
 }
