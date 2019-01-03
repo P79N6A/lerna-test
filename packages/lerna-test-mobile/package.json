@@ -1,5 +1,5 @@
 {
-  "name": "lerna-test-mobile",
+  "name": "lerna-test-mobile-11",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "n0ruSh <zjh190579@alibaba-inc.com>",
@@ -22,5 +22,6 @@
   },
   "dependencies": {
     "lerna-test-core": "^0.0.1"
-  }
+  },
+  "gitHead": "74b5c59863877f979035fa364f4858970a29eac0"
 }
